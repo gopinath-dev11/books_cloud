@@ -6,5 +6,5 @@ The HTML code includes a navigation bar, a section for displaying book entries w
 # CSS
 The CSS code defines a clean, minimalistic layout with a brown and cream color scheme. The navbar has a solid background and padding for better spacing. Containers for books have a fixed width and display as inline blocks with rounded corners. Buttons are styled with consistent background colors and padding. Popup boxes for adding books are centered and have transparent inputs with customized placeholder text.
 
-#Javascript
+# Javascript
 The JavaScript code controls the behavior of a popup form used to add book details. When the "Add" button is clicked, the popup appears, allowing the user to enter a book's title, author, and description. The entered information is displayed in a new container on the page. A "Delete" button allows users to remove a book entry from the list.
